@@ -80,11 +80,10 @@ Follow these steps to set up the Weather Dashboard locally or on your own server
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-- Weather data provided by the OpenWeather API.
+- Weather data provided by the OpenWeather API and FreeWeather API.
 - Icons from [Weather Icons](https://erikflowers.github.io/weather-icons/).
 
 Feel free to contribute to this project or report issues by creating pull requests or submitting issues. Enjoy exploring the weather with the Weather Dashboard!
 
-```
 
 
