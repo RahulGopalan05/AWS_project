@@ -1,7 +1,25 @@
 # AWS_project
 AWS final project 2023(weather)
 
-Certainly, here's a template for a README.md file for your GitHub repository for your weather dashboard project:
+## Important Note
+To ensure the proper functionality of the Weather Dashboard, it is crucial to use the specified AWS services for each component. Here's a list of AWS services and resources that must be utilized:
+
+- **Frontend Hosting**: React.js frontend should be hosted on an Amazon EC2 instance.
+
+- **Backend Hosting**: Flask (Python) backend should also be hosted on a separate Amazon EC2 instance.
+
+- **Database**: Weather data should be stored in an Amazon RDS database (MySQL).
+
+- **Image and Icon Storage**: All images and weather icons should be stored in an Amazon S3 bucket.
+
+- **Data Retrieval**: Weather data is fetched from the OpenWeather API.
+
+- **Data Update Scheduler**: AWS CloudWatch and AWS Lambda are used to schedule periodic data updates every 15 minutes.
+
+- **Load Balancing**: Application load balancing is achieved using Amazon Elastic Load Balancer (ELB).
+
+Make sure to configure these services and resources correctly to enjoy the full functionality of the Weather Dashboard.
+
 
 ```markdown
 # Weather Dashboard
