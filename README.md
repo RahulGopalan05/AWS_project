@@ -95,7 +95,7 @@ Follow these steps to set up the Weather Dashboard locally or on your own server
 - Explore weather conditions, temperatures, humidity, and more.
 - The dashboard automatically updates weather data every 15 minutes.
 
-## License
+## License(not real, just for show)
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
