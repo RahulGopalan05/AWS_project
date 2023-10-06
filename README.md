@@ -27,7 +27,8 @@ Make sure to configure these services and resources correctly to enjoy the full 
 ## Overview
 The Weather Dashboard is a web application that provides real-time weather information for various cities. It offers users the ability to check weather conditions, temperatures, humidity, and more. This README provides an overview of the project, its architecture, and how to set it up.
 
-![Weather Dashboard Screenshot](screenshot.png)
+![Weather Dashboard Screenshot](![image](https://github.com/Hazelnut05/AWS_project/assets/74465100/69398029-c381-49ca-ba02-1577f3555637)
+)
 
 ## Features
 - Real-time weather data: Get the latest weather information for any city.
