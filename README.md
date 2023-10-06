@@ -87,4 +87,4 @@ Feel free to contribute to this project or report issues by creating pull reques
 
 ```
 
-Replace placeholders like `your-username` with your actual GitHub username, and make sure to create a `LICENSE` file with your chosen license text (e.g., MIT License). You can also add any additional sections or details specific to your project.
+
