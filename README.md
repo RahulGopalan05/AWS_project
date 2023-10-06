@@ -65,7 +65,7 @@ Follow these steps to set up the Weather Dashboard locally or on your own server
      ```
    - Run the backend server:
      ```bash
-     python app.py
+     python backend.py
      ```
 
 4. Access the Weather Dashboard:
